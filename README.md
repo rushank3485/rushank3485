@@ -31,6 +31,7 @@
 
 | Project | What it is | Stack | Links |
 | :--- | :--- | :--- | :---: |
+| **Doodle Orchestra** | Interactive audio-visual musical canvas: sweeping playhead synthesizes drawings into real-time melodies with multi-instrument polyphony. | Canvas API, Web Audio API, Vanilla JS | [Live](https://doodle-orchestra.vercel.app) · [Code](https://github.com/rushank3485/doodle-orchestra) |
 | **SentinelGuard** | Explainable AI threat & scam radar: evaluates suspicious SMS, phishing links, and social engineering vectors with transparent heuristic risk breakdown. | Vanilla JS, Heuristics, SVG Gauges, CSS3 | [Live](https://sentinel-guard-amber.vercel.app) · [Code](https://github.com/rushank3485/sentinel-guard) |
 | **Zenith** | Atmospheric ambient weather intelligence: real-time climate conditions, air quality gauge, dynamic day/night visuals, and 5-day horizon forecasts. | ES6, Space Grotesk, CSS Glassmorphism | [Live](https://zenith-weather.vercel.app) · [Code](https://github.com/rushank3485/zenith-weather) |
 | **DevDock** | All-in-one developer utility cockpit: JSON studio (formatter/minifier), JWT token claims inspector, and offline Base64/URL transformer. | ES6 Modules, Modern Web APIs, Vercel | [Live](https://dev-dock-nine.vercel.app) · [Code](https://github.com/rushank3485/dev-dock) |
